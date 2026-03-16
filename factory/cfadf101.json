@@ -1,0 +1,9 @@
+{
+	"name": "cfadf101",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ca200c7b-a53e-4f91-a32c-a0a38fb1fae9",
+		"tenantId": "d3c90e5b-64a0-4226-b757-490d42cb4e7f"
+	}
+}
